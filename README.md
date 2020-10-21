@@ -1,13 +1,15 @@
 # vue-learning4
 Vue全家桶实战 从零独立开发企业级电商系统
 
+
+
+[《Vue全家桶高仿小米商城》](https://coding.imooc.com/class/evaluation/397.html)
+
+[手记](https://www.imooc.com/article/297585)
+
+2019-12-12 的课程
+
 解压密码
-
-
-
-
-
-
 
 LKDJalkdjsald897sd
 
@@ -127,6 +129,6 @@ LKDJalkdjsald897sd
 │    15-6_服务器部署准备工作.mp4
 │    15-7_Nginx安装和配置.mp4
 │    15-8_Node环境搭建.mp4
-	 15-9_项目部署.mp4**
+│	 	 15-9_项目部署.mp4**
 ```
 
