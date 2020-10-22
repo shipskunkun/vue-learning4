@@ -1,4 +1,4 @@
-# mimall
+# vue-router
 
 ## Project setup
 ```
