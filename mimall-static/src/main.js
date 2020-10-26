@@ -1,4 +1,4 @@
-import Vue from 'vue'
+ import Vue from 'vue'
 import router from './router'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
@@ -10,7 +10,7 @@ import store from './store'
 import App from './App.vue'
 // import env from './env'
 // mock开关
-const mock = false;
+const mock = true;
 if(mock){
   require('./mock/api');
 }

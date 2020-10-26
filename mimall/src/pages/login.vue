@@ -47,6 +47,9 @@ export default {
       userId:''
     }
   },
+  mounted() {
+    window.console.log(this);
+  },
   methods:{
     login(){
       let { username,password } = this;

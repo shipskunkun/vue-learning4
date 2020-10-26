@@ -199,6 +199,7 @@
     },
     mounted(){
       this.init();
+      window.console.log(this);
     },
     methods:{
       init(){

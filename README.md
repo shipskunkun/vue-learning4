@@ -7,6 +7,8 @@ Vue全家桶实战 从零独立开发企业级电商系统
 
 [手记](https://www.imooc.com/article/297585)
 
+[后端接口wiki](https://gitee.com/imooccode/happymmallwiki/wikis/Home)
+
 2019-12-12 的课程
 
 解压密码
